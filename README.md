@@ -9,4 +9,8 @@ Apresentação do serviços , versão prévia de um serviço.
 _________________________________________________________________________________________________
 
 
-na pasta VM contem prints do projeto utilizado para criação da maquina virtual , para fins de aprendizado
+na pasta VM contem prints do projeto utilizado para criação da maquina virtual , para fins de aprendizado.
+
+_________________________________________________________________________________________________
+
+na pasta sql contem o print da criação so Sql para fins de aprendizado e estudos.
