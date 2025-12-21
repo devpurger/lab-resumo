@@ -15,6 +15,7 @@ Visão geral dos principais serviços disponibilizados pela plataforma;
 Identificação e entendimento de serviços em Preview (versão prévia) e suas implicações em ambientes de produção.
 
 Organização do Repositório
+
 📁 VM
 
 A pasta VM contém evidências (prints) do processo de criação e configuração de Máquinas Virtuais (Azure Virtual Machines), incluindo:
